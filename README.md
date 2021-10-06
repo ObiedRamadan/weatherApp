@@ -1,2 +1,2 @@
 # weatherApp
-* https://obiedramadan.github.io/weatherApp/
+* http://weatherapp-new.epizy.com
